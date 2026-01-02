@@ -9,9 +9,10 @@
 <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,firebase,git,mysql,c,cpp,java" />
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=tasneemu-13&show_icons=true&theme=tokyonight&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=tasneemu-13&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tasneemu-13&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=tasneemu-13&theme=tokyonight&hide_border=true" />
+
 
 ### 🔥 Current Focus
 - Learning Next.js
