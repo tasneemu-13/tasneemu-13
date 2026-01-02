@@ -1,16 +1,17 @@
-## Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20👋,%20I'm%20Tasneem&height=200)
 
-<!--
-**tasneemu-13/tasneemu-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 CSE Student
+- 🤖 Exploring AI & Full Stack Development
+- 💡 Building real-world projects
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,firebase,git" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=tasneemu-13&show_icons=true&theme=tokyonight)
+
+### 🔥 Current Focus
+- Learning Next.js
+- Building AI projects
+- Open to collaborations
